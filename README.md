@@ -84,13 +84,13 @@ Releases will be numbered with the following format:
 `<major>.<minor>.<patch>`
 
 Constructed with the following guidelines:
-* A new *major* release indicates a large change where backwards compatibility is broken.
-* A new *minor* release indicates a normal change that maintains backwards compatibility.
-* A new *patch* release indicates a bugfix or small change which does not affect compatibility.
+* A new *major* release indicates a large change where backward compatibility is broken.
+* A new *minor* release indicates a normal change that maintains backward compatibility.
+* A new *patch* release indicates a bug fix or small change which does not affect compatibility.
 
 ## License
 
-If you distribute a copy or make a fork of the project, you have to credit this project as source.
+If you distribute a copy or make a fork of the project, you have to credit this project as a source.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
