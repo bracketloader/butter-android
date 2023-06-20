@@ -20,7 +20,7 @@ Keep track of Butter development and community activity.
  - [ ] 0.6.0 - Update video player and resolve media streaming issues
  - [ ] 0.7.0 - Refactor updater to work on p2p protocol
  - [ ] 0.8.0 - Updating connect SDK
- - [ ] 0.9.0 - Cleaning up project (resources, proguard, ...)
+ - [ ] 0.9.0 - Cleaning up the project (resources, proguard, ...)
  - [ ] 1.0.0 - Making app stable for release
 
 ### pos 1.0.0
