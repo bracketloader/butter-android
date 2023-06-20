@@ -40,7 +40,7 @@ Want to report a bug, request a feature, contribute or translate Butter? Check o
 [![pipeline status](https://gitlab.com/butterproject/butter-android/badges/develop/pipeline.svg)](https://gitlab.com/butterproject/butter-android/commits/develop)
 
 The [gradle build system](https://developer.android.com/studio/build/index.html) will fetch all dependencies and generate
-files you need to build the project. You first need to generate the
+the files you need to build the project. You first need to generate the
 local.properties (replace YOUR_SDK_DIR by your actual android sdk dir)
 file:
 
@@ -57,7 +57,7 @@ You can use [Android Studio](http://developer.android.com/sdk/installing/studio.
 
 ## Directory structure ##
 
-    `|-- base                            # base module (contains all the core functionallity)
+    `|-- base                            # base module (contains all the core functionality)
     `|-- mobile                          # mobile module (smartphone/tablet application)
     `|-- tv                              # tv module (Android TV application)
     `|-- provider                        # includes provider implementations
