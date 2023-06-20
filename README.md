@@ -69,11 +69,11 @@ You can use [Android Studio](http://developer.android.com/sdk/installing/studio.
           `-- subs                       # subtitle provider implementation and SDK
                 |-- mock                 # Subs provider implementation with mock data for testing purposes
                 |-- provide              # Subs provider SDK
-    `|-- connectsdk                      # connectsdk module responsible for streaming on external device such as Chromecas or Apple TV
+    `|-- connectsdk                      # connectsdk module responsible for streaming on external devices such as Chromecast or Apple TV
           |-- core                       # connectsdk module core implementation
           `-- modules
                 |-- google_cast          # connectsdk module google cast implementation
-                |-- firetv               # connectsdk module fire tv implementation
+                |-- fire tv               # connectsdk module fire tv implementation
 
 ## Versioning
 
