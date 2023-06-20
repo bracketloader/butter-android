@@ -29,11 +29,11 @@ Keep track of Butter development and community activity.
  - Support multiple audio sources.
  - Make media available offline.
  - Adding support for Chromebooks.
- - Picture in picture support.
+ - Picture-in-picture support.
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute or translate Butter? Check out our in-depth guide to [Contributing to Butter](.github/CONTRIBUTING.md#contributing-to-butter).
+Want to report a bug, request a feature, contribute, or translate Butter? Check out our in-depth guide to [Contributing to Butter](.github/CONTRIBUTING.md#contributing-to-butter).
 
 ## Build Instructions
 
